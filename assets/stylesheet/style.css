@@ -54,7 +54,7 @@ table {
 }
 
 .head {
-	background-color: black;
+	background-color: blue;
 	color: white;
 	position: fixed;
 	width: 100%;
@@ -88,7 +88,7 @@ h2 {
 	font-size: 29px;
 	padding-bottom: 10px;
 	color: white;
-	background-color: black;
+	background-color: blue;
 }
 .para {
 	font-size: 20px;
@@ -119,16 +119,16 @@ img {
   clear: both;
 }
 .foot {
-	background-color: black;
+	background-color: blue;
 	color: white;
 	padding: 20px 0px;
 }
 .main1 {
-	background-color: #F8DCB6;
+	background-color: white;
 	padding-top: 70px;
 }
 .main2 {
-	background-color: lightblue;
+	background-color: lightgrey;
 }
 h3 {
 	display: inline-block;
