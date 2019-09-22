@@ -129,6 +129,7 @@ img {
 }
 .main2 {
 	background-color: lightgrey;
+	padding-bottom: 20px;
 }
 h3 {
 	display: inline-block;
@@ -138,4 +139,41 @@ h3 {
 	float: right;
 	padding-right: 10px;
 	color: white;
+}
+.leftcol {
+	padding-right: 3.3%;
+	padding-top: 3.3%;
+	float: left;
+	width: 30%;
+
+}
+.midcol {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	padding-right: 3.3%;
+	padding-top: 3.3%;
+}
+.rightcol {
+
+	float: right;
+	width: 30%;
+	padding-right: 3.3%;
+	padding-top: 3.3%;
+}
+.circle {
+	background:white;
+	border-radius: 50%;
+	height: 40px;
+	width: 40px;
+	left:97%;
+	top:95%;
+	position: fixed;
+	color: blue;
+	font-size: 40px;
+	text-align: center;
+
+}
+a {
+	text-decoration: none;
 }
